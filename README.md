@@ -18,6 +18,12 @@ Contributions are welcome! You can contribute by making an issue or pull request
 
 Run [lifesim.py](lifesim.py) script:
 ```sh
+python lifesim.py
+```sh
+   
+   OR
+   
+```sh
 python3 lifesim.py
 ```
 
